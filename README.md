@@ -43,3 +43,6 @@ _Run the script to train the model and make predictions._
 
 # dataset link
 https://www.kaggle.com/code/beyzanks/waste-classification-with-cnn
+
+# Any problem you face mail me
+my mail id is samanta2003sayan@gmail.com
